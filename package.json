@@ -1,0 +1,26 @@
+{
+  "name": "codemetrics-process-sloc",
+  "version": "0.1.0",
+  "description": "A simple SLOC processor for codemetrics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxdow/codemetrics-process-sloc.git"
+  },
+  "keywords": [
+    "SLOC",
+    "metrics"
+  ],
+  "author": "Maxime Warnier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxdow/codemetrics-process-sloc/issues"
+  },
+  "homepage": "https://github.com/maxdow/codemetrics-process-sloc#readme",
+  "dependencies": {
+    "sloc": "^0.1.9"
+  }
+}
